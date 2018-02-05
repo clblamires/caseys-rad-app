@@ -1,0 +1,8 @@
+{
+  "name": "caseysradapp",
+  "app_id": "ff18a0c5",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
